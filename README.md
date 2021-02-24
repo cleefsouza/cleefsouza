@@ -12,7 +12,7 @@ Tenho 25 anos. Sou graduado em Sistemas para Internet pelo Centro Universitário
 
 ### Paixões :heartpulse:
 
-Minha família, amigos, animes, games, música, pizza e tecnologia.
+Minha família, amigos, animes, games, música, pizza, café e tecnologia.
 
 ### Contate-me :speech_balloon:
 
