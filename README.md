@@ -1,5 +1,5 @@
-<p align="center">
-   <img src=".github/logo.svg" width="250"/>
+<p>
+   <img src=".github/logo.svg" width="150"/>
 </p>
 
 ## Olá, me chamo Cleef Souza 👋
@@ -12,7 +12,7 @@ Tenho 25 anos. Sou graduado em Sistemas para Internet pelo Centro Universitário
 
 ### Paixões :heartpulse:
 
-Minha família, amigos, animes, games, música e tecnologia.
+Minha família, amigos, animes, games, música, pizza e tecnologia.
 
 ### Contate-me :speech_balloon:
 
