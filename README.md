@@ -1,5 +1,5 @@
 <p>
-   <img src=".github/logo.svg" width="100"/>
+   <img src=".github/logo.svg" width="80"/>
 </p>
 
 ## Olá, me chamo Cleef Souza 👋
