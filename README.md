@@ -1,5 +1,5 @@
 <p>
-   <img src=".github/logo.svg" width="150"/>
+   <img src=".github/logo.svg" width="100"/>
 </p>
 
 ## Olá, me chamo Cleef Souza 👋
@@ -22,5 +22,4 @@ Minha família, amigos, animes, games, música, pizza e tecnologia.
 - **[Rocketseat](https://app.rocketseat.com.br/me/cleef-souza)**
 
 &nbsp;
-
 ![Cleefsouza's github stats](https://github-readme-stats.vercel.app/api?username=cleefsouza&show_icons=true&theme=dark)
