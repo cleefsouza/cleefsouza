@@ -1,16 +1,26 @@
-### Hi there 👋
+<p align="center">
+   <img src=".github/logo.svg" width="250"/>
+</p>
 
-<!--
-**cleefsouza/cleefsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, me chamo Cleef Souza 👋
 
-Here are some ideas to get you started:
+> Sou desenvolvedor back-end (com um pezinho no front-end), atualmente trabalho na [Vox Tecnologia](https://instagram.com/vox_tecnologia) como desenvolvedor PHP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre mim :sunglasses:
+
+Tenho 25 anos. Sou graduado em Sistemas para Internet pelo Centro Universitário de João Pessoa e Técnico em Informática pelo SISUTEC.
+
+### Paixões :heartpulse:
+
+Minha família, amigos, animes, games, música e tecnologia.
+
+### Contate-me :speech_balloon:
+
+- **[Instagram](https://www.instagram.com/cleefsouza)**
+- **[LinkedIn](https://www.linkedin.com/in/aryosvalldo-cleef)**
+- **[Stackoverflow](https://pt.stackoverflow.com/users/106572/cleef-souza?tab=profile)**
+- **[Rocketseat](https://app.rocketseat.com.br/me/cleef-souza)**
+
+&nbsp;
+
+![Cleefsouza's github stats](https://github-readme-stats.vercel.app/api?username=cleefsouza&show_icons=true&theme=dark)
