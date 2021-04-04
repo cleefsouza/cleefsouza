@@ -4,7 +4,7 @@
 
 ## Olá, me chamo Cleef Souza 👋
 
-> Sou desenvolvedor back-end (com um pezinho no front-end), atualmente trabalho na [Vox Tecnologia](https://instagram.com/vox_tecnologia) como desenvolvedor PHP.
+> Sou desenvolvedor back-end (com um pezinho no front-end), atualmente trabalho na [Labsit](https://labsit.io/) como engenheiro de software.
 
 ### Sobre mim :sunglasses:
 
