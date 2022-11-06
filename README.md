@@ -8,7 +8,7 @@
 
 ### Sobre mim :sunglasses:
 
-Tenho 25 anos. Sou graduado em Sistemas para Internet pelo Centro Universitário de João Pessoa e Técnico em Informática pelo SISUTEC.
+Tenho 27 anos. Sou graduado em Sistemas para Internet pelo Centro Universitário de João Pessoa e Técnico em Informática pelo SISUTEC.
 
 ### Paixões :heartpulse:
 
