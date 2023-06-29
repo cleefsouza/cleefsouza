@@ -8,7 +8,7 @@
 
 ### Sobre mim :sunglasses:
 
-Tenho 27 anos. Sou graduado em Sistemas para Internet pelo Centro Universitário de João Pessoa e Técnico em Informática pelo SISUTEC.
+Tenho 28 anos. Pós-graduando em Engenharia e qualidade de software e graduado em Sistemas para Internet pelo Centro Universitário de João Pessoa e Técnico em Informática pelo SISUTEC.
 
 ### Paixões :heartpulse:
 
@@ -16,7 +16,7 @@ Minha família, amigos, animes, games, música, pizza, café e tecnologia.
 
 ### Contate-me :speech_balloon:
 
-- **[Instagram](https://www.instagram.com/cleefsouza)**
+- **[Notion CV](https://cleefsouza.notion.site/Aryosvalldo-Cleef-b8d6374676c6456fbb992355a0c43cc2?pvs=4)**
 - **[LinkedIn](https://www.linkedin.com/in/aryosvalldo-cleef)**
 - **[Stackoverflow](https://pt.stackoverflow.com/users/106572/cleef-souza?tab=profile)**
 - **[Rocketseat](https://app.rocketseat.com.br/me/cleef-souza)**
