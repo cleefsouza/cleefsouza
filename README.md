@@ -4,11 +4,11 @@
 
 ## Olá, me chamo Cleef Souza 👋
 
-> Sou desenvolvedor back-end (com um pezinho no front-end), atualmente trabalho na Dafiti Group como engenheiro de software.
+> Sou desenvolvedor back-end (com um pezinho no front-end), atualmente trabalho na Vox Tecnologia como Engenheiro de Software Senior I.
 
 ### Sobre mim :sunglasses:
 
-Tenho 28 anos. Pós-graduando em Engenharia e qualidade de software e graduado em Sistemas para Internet pelo Centro Universitário de João Pessoa e Técnico em Informática pelo SISUTEC.
+Tenho 30 anos. Pós-graduado em Engenharia e qualidade de software e graduado em Sistemas para Internet pelo Centro Universitário de João Pessoa e Técnico em Informática pelo SISUTEC.
 
 ### Paixões :heartpulse:
 
